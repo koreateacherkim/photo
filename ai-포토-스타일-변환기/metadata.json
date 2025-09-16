@@ -1,0 +1,7 @@
+{
+  "name": "AI 포토 스타일 변환기",
+  "description": "사진을 업로드하거나 촬영하여 3D, 만화, 디즈니, 미니어처, 캐리커처 등 다양한 예술 스타일로 변환해보세요.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
